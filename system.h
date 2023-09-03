@@ -18,7 +18,6 @@ class System {
   int RunningProcesses();             // DONE: See src/system.cpp
   std::string Kernel();               // DONE: See src/system.cpp
   std::string OperatingSystem();      // DONE: See src/system.cpp
-  int GetProcessesSize(); // for debugging, remove later
 
   // TODO: Define any necessary private members
  private:
